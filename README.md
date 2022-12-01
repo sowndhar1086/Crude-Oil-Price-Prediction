@@ -1,2 +1,1 @@
-# Crude-Oil-Price-Prediction
-Crude Oil Price Prediction Using ML
+# Loan Approval Prediction Using Logistic Regression
